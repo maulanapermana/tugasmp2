@@ -11,12 +11,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '201011401402',
+      title: '201011402090',
       theme: ThemeData(
        
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: '06TPLM003 - 201011401402'),
+      home: const MyHomePage(title: '06TPLM003 - 201011402090'),
     );
   }
 }
@@ -65,13 +65,13 @@ class _MyHomePageState extends State<MyHomePage> {
             height: 5,
             ),
              const Text(
-              'Nama : Maulana ALSyafei P',
+              'Nama : Arya Ramadhan',
             ),
             SizedBox(
             height: 5,
             ),
              const Text(
-              'Nim :201011401402',
+              'Nim :201011402090',
             ),
           
           ],
